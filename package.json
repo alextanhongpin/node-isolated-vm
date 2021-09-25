@@ -1,0 +1,10 @@
+{
+  "name": "node-isolated-vm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "isolated-vm": "^4.3.5"
+  }
+}
